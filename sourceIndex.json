@@ -1,0 +1,27 @@
+{
+    "sourceData": [
+        {
+            "sourceTitle": "爱国漫",
+            "baseUrl": "https://www.aiguoman.com",
+            "indexPath": "/",
+            "search": {
+                "path": "/search?key=%s",
+                "result": ".mh-list > li > div.mh-item",
+                "cid": "",
+                "title": "",
+                "cover": "",
+                "intro": "",
+                "author": "",
+                "updateTime": "",
+                "status": "",
+                "chapterList": "",
+                "chapterPath": "",
+                "imageList": "",
+                "categoryPath": ""
+            },
+            "parse": {
+                "path": "RegExp://",
+            }
+        }
+    ]
+}
